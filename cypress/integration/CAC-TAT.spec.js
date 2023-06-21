@@ -1,6 +1,5 @@
 /// <reference types="Cypress" />
 
-const { delay } = require("cypress/types/bluebird")
 
 describe('Central de Atendimento ao Cliente TAT', function () {
     beforeEach(() => {
